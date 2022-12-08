@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSizeReducer", "ImageSizeReducer\ImageSizeReducer.csproj", "{E69EBCE8-0265-40E4-86B4-6447568EEA4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E69EBCE8-0265-40E4-86B4-6447568EEA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69EBCE8-0265-40E4-86B4-6447568EEA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69EBCE8-0265-40E4-86B4-6447568EEA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69EBCE8-0265-40E4-86B4-6447568EEA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2177BE2E-15DC-422C-9E3A-58F6D269BEA9}
+	EndGlobalSection
+EndGlobal

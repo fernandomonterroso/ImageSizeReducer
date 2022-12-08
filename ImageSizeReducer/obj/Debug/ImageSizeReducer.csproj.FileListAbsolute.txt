@@ -1,0 +1,12 @@
+D:\Fernando\Descargas\ImageSizeReducer-main\ImageSizeReducer-main\ImageSizeReducer\ImageSizeReducer\bin\Debug\ImageSizeReducer.exe.config
+D:\Fernando\Descargas\ImageSizeReducer-main\ImageSizeReducer-main\ImageSizeReducer\ImageSizeReducer\bin\Debug\ImageSizeReducer.exe.manifest
+D:\Fernando\Descargas\ImageSizeReducer-main\ImageSizeReducer-main\ImageSizeReducer\ImageSizeReducer\bin\Debug\ImageSizeReducer.application
+D:\Fernando\Descargas\ImageSizeReducer-main\ImageSizeReducer-main\ImageSizeReducer\ImageSizeReducer\bin\Debug\ImageSizeReducer.exe
+D:\Fernando\Descargas\ImageSizeReducer-main\ImageSizeReducer-main\ImageSizeReducer\ImageSizeReducer\bin\Debug\ImageSizeReducer.pdb
+D:\Fernando\Descargas\ImageSizeReducer-main\ImageSizeReducer-main\ImageSizeReducer\ImageSizeReducer\bin\Debug\Topshelf.dll
+D:\Fernando\Descargas\ImageSizeReducer-main\ImageSizeReducer-main\ImageSizeReducer\ImageSizeReducer\bin\Debug\Topshelf.xml
+D:\Fernando\Descargas\ImageSizeReducer-main\ImageSizeReducer-main\ImageSizeReducer\ImageSizeReducer\obj\Debug\ImageSizeReducer.exe.manifest
+D:\Fernando\Descargas\ImageSizeReducer-main\ImageSizeReducer-main\ImageSizeReducer\ImageSizeReducer\obj\Debug\ImageSizeReducer.application
+D:\Fernando\Descargas\ImageSizeReducer-main\ImageSizeReducer-main\ImageSizeReducer\ImageSizeReducer\obj\Debug\ImageSizeReducer.exe
+D:\Fernando\Descargas\ImageSizeReducer-main\ImageSizeReducer-main\ImageSizeReducer\ImageSizeReducer\obj\Debug\ImageSizeReducer.pdb
+D:\Fernando\Descargas\ImageSizeReducer-main\ImageSizeReducer-main\ImageSizeReducer\ImageSizeReducer\obj\Debug\ImageSizeReducer.csprojResolveAssemblyReference.cache
