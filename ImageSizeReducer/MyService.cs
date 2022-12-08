@@ -48,7 +48,7 @@ namespace ImageSizeReducer
                     watcher.Filter = "*.*";
                     watcher.IncludeSubdirectories = true;
                     watcher.EnableRaisingEvents = true;
-                    Console.WriteLine("Esta registrando los movimientos de la carpeta de reingreso por esta app.");
+                    Console.WriteLine("Esta registrando los movimientos de la carpeta de reingreso por este servicio.");
                 }
                 catch (System.Exception)
                 {
