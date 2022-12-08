@@ -50,7 +50,6 @@ namespace ImageSizeReducer
                     watcher.EnableRaisingEvents = true;
 
                     Console.WriteLine("Esta registrando los movimientos de la carpeta de reingreso.");
-                    //Console.ReadLine();
                 }
                 catch (System.Exception)
                 {
